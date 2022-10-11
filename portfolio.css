@@ -3,7 +3,10 @@ h1 {
     font-size: 58px;
     margin-top: 80px;
 }
-
+h2 {
+    text-align: center;
+    margin-top: 80px;
+}
 ul {
     margin-top: 30px;
     list-style-type: none;
