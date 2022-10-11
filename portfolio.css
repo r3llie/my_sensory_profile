@@ -3,3 +3,7 @@ h1 {
     font-size: 58px;
     margin-top: 30px;
 }
+
+li {
+    text-decoration: none;
+}
