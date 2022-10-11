@@ -31,6 +31,8 @@ p {
 .avoidant-paragraph {
     font-size: 18px;
 }
+img {
+}
 @media (max-width: 1400px) {
     h1 {
         font-size: 38px;
