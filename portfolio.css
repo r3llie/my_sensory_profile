@@ -1,14 +1,22 @@
 body {
   background: linear-gradient(#637d9e, #f7d8d7);
 }
-h1 {
+h3 {
     text-align: center;
     font-size: 83px;
-    margin-top: 80px;
+    margin-top: 30px;
+    font-family: "Black Han Sans", sans-serif;
+}
+h1 {
+    text-align: center;
+    font-size: 63px;
+    margin-top: 10px;
+    font-family: "Black Han Sans", sans-serif;
 }
 h2 {
     text-align: center;
-    margin-top: 80px;
+    margin-top: 10px;
+    font-family: "Kufam", sans-serif;
 }
 ul {
     margin-top: 30px;
@@ -44,13 +52,17 @@ img {
 @media (max-width: 1400px) {
     h1 {
         font-size: 38px;
-        margin-top: 45px;
+        margin-top: 10px;
     }
     h2 {
         font-size: 24px;
+    }
+    h3 {
+        font-size: 68px;
     }
     p {
         font-size: 13px;
         padding: 12px;
     }
+   
 }
