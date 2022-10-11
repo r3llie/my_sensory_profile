@@ -15,7 +15,7 @@ h1 {
 }
 h2 {
     text-align: center;
-    margin-top: 10px;
+    margin-top: 60px;
     font-family: "Kufam", sans-serif;
 }
 ul {
@@ -23,9 +23,11 @@ ul {
     list-style-type: none;
     text-align: center;
     padding: 0;
+    font-family: "Glegoo", serif;
 }
 p {
     padding: 12px;
+    font-family: "Kufam", sans-serif;
 }
 .accomodations-list {
     font-size: 23px;
@@ -35,9 +37,11 @@ p {
 }
 .seeking-paragraph {
     font-size: 18px;
+    font-family: "Kufam", sans-serif;
 }
 .avoidant-paragraph {
     font-size: 18px;
+    font-family: "Kufam", sans-serif;
 }
 section {
     text-align: center;
