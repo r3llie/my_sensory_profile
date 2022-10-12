@@ -41,6 +41,9 @@ a {
     color: blue;
     text-decoration: none;
 }
+a:hover {
+    color: red;
+}
 .plus-sign {
     text-align: center;
     margin-top: 33px;
