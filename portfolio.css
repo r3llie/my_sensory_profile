@@ -51,7 +51,7 @@ img {
 }
 .r3-image {
     text-align: center;
-    margin-top: 30px;
+    margin-top: 50px;
 }
 @media (max-width: 1400px) {
     h1 {
@@ -68,5 +68,7 @@ img {
         font-size: 13px;
         padding: 12px;
     }
-   
+    img {
+        max-width: 83px;
+    }
 }
