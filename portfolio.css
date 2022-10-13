@@ -37,6 +37,9 @@ section {
 img {
     border-radius: 80px;
 }
+img:hover {
+  opacity: .7;
+}
 a {
     color: blue;
     text-decoration: none;
@@ -61,14 +64,13 @@ a:hover {
     font-size: 34px;
 }
 .seeking-paragraph {
-    font-size: 18px;
+    font-size: 19px;
     font-family: "Kufam", sans-serif;
 }
 .avoidant-paragraph {
-    font-size: 18px;
+    font-size: 19px;
     font-family: "Kufam", sans-serif;
 }
-
 .r3-image {
     text-align: center;
     margin-top: 50px;
@@ -76,7 +78,7 @@ a:hover {
 .footer {
     text-align: center;
     font-family: "Kufam", sans-serif;
-    margin-bottom: 30px;
+    margin-bottom: 80px;
     font-size: 18px;
 }
 @media (max-width: 1400px) {
@@ -108,4 +110,15 @@ a:hover {
         margin-top: 25px;
         margin-bottom: 8px;
     }
+    .accomodations-list {
+    font-size: 18px;
+}
+.seeking-paragraph {
+    font-size: 16px;
+    
+}
+.avoidant-paragraph {
+    font-size: 16px;
+   
+}
 }
