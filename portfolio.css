@@ -54,8 +54,10 @@ a:hover {
 }
 
 .link-tree {
-  margin-bottom: 8px;
   margin-top: 33px;
+}
+.linktree-img {
+  width: 130px;
 }
 .accomodations-list {
   font-size: 23px;
