@@ -2,123 +2,124 @@ body {
   background: linear-gradient(#637d9e, #f7d8d7);
 }
 h3 {
-    text-align: center;
-    font-size: 83px;
-    margin-top: 30px;
-    font-family: "Black Han Sans", sans-serif;
-    color: #f7d8d7;
+  text-align: center;
+  font-size: 83px;
+  margin-top: 30px;
+  font-family: "Black Han Sans", sans-serif;
+  color: #f7d8d7;
 }
 h1 {
-    text-align: center;
-    font-size: 63px;
-    margin-top: 10px;
-    font-family: "Black Han Sans", sans-serif;
+  text-align: center;
+  font-size: 63px;
+  margin-top: 10px;
+  font-family: "Black Han Sans", sans-serif;
 }
 h2 {
-    text-align: center;
-    margin-top: 20px;
-    margin-bottom: 0px;
-    font-family: "Kufam", sans-serif;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 0px;
+  font-family: "Kufam", sans-serif;
 }
 ul {
-    margin-top: 30px;
-    list-style-type: none;
-    text-align: center;
-    padding: 0;
-    font-family: "Glegoo", serif;
+  margin-top: 30px;
+  list-style-type: none;
+  text-align: center;
+  padding: 0;
+  font-family: "Glegoo", serif;
 }
 p {
-    padding: 12px;
-    font-family: "Kufam", sans-serif;
+  padding: 12px;
+  font-family: "Kufam", sans-serif;
 }
 section {
-    text-align: center;
+  text-align: center;
 }
 img {
-    border-radius: 80px;
+  border-radius: 80px;
 }
 img:hover {
-  opacity: .7;
+  opacity: 0.7;
 }
 a {
-    color: blue;
-    text-decoration: none;
+  color: blue;
+  text-decoration: none;
 }
 a:hover {
-    color: red;
+  color: red;
 }
 .plus-sign {
-    text-align: center;
-    margin-top: 33px;
-    margin-bottom: 13px;
+  text-align: center;
+  margin-top: 33px;
+  margin-bottom: 13px;
 }
 
 .link-tree {
-    margin-bottom: 8px;
-    margin-top: 33px;
+  margin-bottom: 8px;
+  margin-top: 33px;
 }
 .accomodations-list {
-    font-size: 23px;
+  font-size: 23px;
 }
 .sensory-profile-list {
-    font-size: 34px;
+  font-size: 34px;
 }
 .seeking-paragraph {
-    font-size: 19px;
-    font-family: "Kufam", sans-serif;
+  font-size: 19px;
+  font-family: "Kufam", sans-serif;
 }
 .avoidant-paragraph {
-    font-size: 19px;
-    font-family: "Kufam", sans-serif;
+  font-size: 19px;
+  font-family: "Kufam", sans-serif;
 }
 .r3-image {
-    text-align: center;
-    margin-top: 50px;
+  text-align: center;
+  margin-top: 50px;
 }
 .footer {
-    text-align: center;
-    font-family: "Kufam", sans-serif;
-    margin-bottom: 80px;
-    font-size: 18px;
+  text-align: center;
+  font-family: "Kufam", sans-serif;
+  margin-bottom: 80px;
+  font-size: 18px;
+}
+.source {
+  font-size: 24px;
 }
 @media (max-width: 1400px) {
-    h1 {
-        font-size: 38px;
-        margin-top: 10px;
-    }
-    h2 {
-        font-size: 24px;
-        margin-top: 10px;
-    }
-    h3 {
-        font-size: 68px;
-    }
-    p {
-        font-size: 13px;
-        padding: 12px;
-    }
-    img {
-        max-width: 83px;
-    }
-    .sensory-profile-list {
-        font-size: 23px;
-    }
-    .footer {
-        font-size: 16px;
-    }
-    .plus-sign {
-        margin-top: 25px;
-        margin-bottom: 8px;
-    }
-    .accomodations-list {
+  h1 {
+    font-size: 38px;
+    margin-top: 10px;
+  }
+  h2 {
+    font-size: 24px;
+    margin-top: 10px;
+  }
+  h3 {
+    font-size: 68px;
+  }
+  p {
+    font-size: 13px;
+    padding: 12px;
+  }
+  img {
+    max-width: 83px;
+  }
+  .sensory-profile-list {
+    font-size: 23px;
+  }
+  .footer {
+    font-size: 16px;
+  }
+  .plus-sign {
+    margin-top: 25px;
+    margin-bottom: 8px;
+  }
+  .accomodations-list {
     font-size: 18px;
-}
-.seeking-paragraph {
+  }
+  .seeking-paragraph {
     font-size: 16px;
-    
-}
-.avoidant-paragraph {
+  }
+  .avoidant-paragraph {
     font-size: 16px;
-   
-}
+  }
 }
